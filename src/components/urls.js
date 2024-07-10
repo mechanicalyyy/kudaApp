@@ -1,3 +1,3 @@
-const BASE_URL = "https://kudaserver-v5l6.onrender.com";
+const BASE_URL = "https://kudaserver-533j.onrender.com";
 
 export default BASE_URL;
