@@ -1,3 +1,3 @@
-const BASE_URL = "https://serverapi1.vercel.app/";
+const BASE_URL = "https://myaopi.onrender.com";
 
 export default BASE_URL;
